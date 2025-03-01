@@ -1,4 +1,3 @@
-package my_1_1;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
