@@ -1,5 +1,3 @@
-package my_3_1;
-
 import java.util.Scanner;
 
 public class MatrixAddition {
