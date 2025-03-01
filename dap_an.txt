@@ -1,0 +1,8 @@
+TR? L?I CÂU H?I OOP LAB 01
+Bài 6.1:
+- Chuy?n gì x?y ra n?u ngu?i dùng ch?n "Cancel" :
+Thông báo s? du?c m?t c?a s? nh? hi?n ra: You've chosen: NO
+- Cách d? tùy ch?nh l?a ch?n ch? còn 2 : "YES" và "No" ho?c "I do" và "I don't": 
+-->Ta s?a dòng: int option = JOptionPane.showConfirmDialog(null, "Do you want to change to the first class ticket?");
+b?ng cách chèn thêm 2 tham s? : "Confirmation" và JOptionPane.YES_NO_OPTION vào cu?i hàm:
+int option = JOptionPane.showConfirmDialog(null, "Do you want to change to the first class ticket?", "Confirmation",JOptionPane.YES_NO_OPTION);
