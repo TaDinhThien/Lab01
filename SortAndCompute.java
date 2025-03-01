@@ -1,5 +1,3 @@
-package my_2_1;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
